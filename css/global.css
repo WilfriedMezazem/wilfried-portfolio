@@ -449,9 +449,11 @@ section {
 .skills p {
   margin: 0 0 0.3rem 0;
 }
-
+.skills {
+  background: #D3D3D3;
+}
 .skills li {
-  background-color: #F5F5F5;
+  background-color: #FFFFFF;
   border-left: 3px solid rgb(91, 107, 120);
   padding: .9rem 2rem;
 }
